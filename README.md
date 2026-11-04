@@ -1,6 +1,6 @@
 # SQL Analyst Notebook
 
-Daily SQL practice focused on healthcare and business questions.
+Daily SQL practice focused on business questions.
 Each entry includes the query and the "so what": what the result
 means for a decision maker.
 
